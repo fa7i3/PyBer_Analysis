@@ -13,4 +13,4 @@ Results.
 ![dataframe summary](https://user-images.githubusercontent.com/104453593/172488836-d30d0ffe-bf85-4e33-9677-5da07284b629.PNG)
 
 According to the summary, Urban cities have more rides (1,625) when compared to both the Rural and Suburban cities who each have 125 and 625 rides respectively. Also, according to the summary, Urban cities considerably has more drivers than both Rural and Suburban cities combined together. It makes sense for the urban cities to have more drivers because it has more rides than the other cities combined together. 
-Total fares for the Urban cities was the highest ($39,854.38)
+Total fares for the Urban cities was the highest ($39,854.38), almost twice the cost of Suburban cities ($19,356.33), while the total fares for Suburban cities is almost twice the total fares for Rural cities($4,327.93). 
