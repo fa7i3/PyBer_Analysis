@@ -6,4 +6,4 @@ Overview of Analysis:
 Results.
    Figure 1: Summary Dataframe by City Type 
     
-    ![dataframe summary](https://user-images.githubusercontent.com/104453593/172488338-ea9d7ce1-11e9-4f39-bffd-5ecfba16c021.PNG)
+    ![dataframe summary](https://user-images.githubusercontent.com/104453593/172488701-759f5ccc-6f1f-4c0a-aa21-33749c8a017c.PNG)
