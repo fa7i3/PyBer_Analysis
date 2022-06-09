@@ -27,3 +27,6 @@ According to the line chart, Urban cities generate the most total revenue, follo
 
 
 Summary:
+1. Focus on developing the Rural area by employing more drivers, getting more rides and reducing the ride fare.
+2. Using the same strategy to develop the Suburban areas.
+3. Rather than focusing on only the first part of the year, the study may get more insight if it focuses on the whole year and have yearly trends.
