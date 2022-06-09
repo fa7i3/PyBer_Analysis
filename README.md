@@ -22,3 +22,4 @@ Figure 2: Total Fare by City Type
 
 ![total fare by city type](https://user-images.githubusercontent.com/104453593/172874132-778b0df2-5b34-4bd2-b15d-cc57497b4495.PNG)
 
+According to the line chart, Urban cities generate the most total revenue, followed by Suburban and Rural cities. The revenue made by the service for all cities is kind of steady over the period of January to May. 
